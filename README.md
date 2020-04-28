@@ -1,2 +1,4 @@
-# virtualLAN_processing
-Pasos para setear una virtual lan utilizando Processing y ZeroTier
+# Seteo de LAN virtual para poder facilmente utilizar OSC con Processing a atraves de Internet
+----
+### Instalar ZeroTier
+* #### Instalacion en Windows
