@@ -1,6 +1,7 @@
 /**
  * oscP5sendreceive by andreas schlegel
  * Adaptado para usar por ALC
+ * Este ejemplo requiere que se instale la biblioteca oscP5. Scketch -> Importar Biblioteca -> Añadir Biblioteca. Buscar oscP5 e instalar
  */
 
 import oscP5.*;
